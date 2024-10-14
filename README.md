@@ -1,7 +1,5 @@
 # QIDI-Q1-Pro-3d-Touch
 
-# QIDI-Q1-Pro-3d-Touch
-
 Переделка QIDI Q1 Pro с индуктивного датчика стола на 3д-тач.
 
 Что плохо:
