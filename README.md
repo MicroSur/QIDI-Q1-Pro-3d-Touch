@@ -1,5 +1,7 @@
 # QIDI-Q1-Pro-3d-Touch
 
+# QIDI-Q1-Pro-3d-Touch
+
 Переделка QIDI Q1 Pro с индуктивного датчика стола на 3д-тач.
 
 Что плохо:
@@ -19,7 +21,9 @@
 - Распиновка (фото), используются pазъемы на плате головы J7 ( +5, Gnd, IO21 ) и J11 ( IO11 - верхний, второй нижний не использовать ).
   Вторую землю от 3д-тача можно не тащить и никуда не втыкать.
 
-![Распиновка 3д-тач](https://github.com/MicroSur/QIDI-Q1-Pro-3d-Touch/blob/main/3dt_head_pinout.jpg?raw=true "Распиновка 3д-тач")
+![Распиновка 3д-тач на голове](https://github.com/MicroSur/QIDI-Q1-Pro-3d-Touch/blob/main/3dt_head_pinout.jpg?raw=true "Распиновка 3д-тач на голове")
+
+![Красивый вариант на голове](https://github.com/MicroSur/QIDI-Q1-Pro-3d-Touch/blob/main/last_pins_view.jpg?raw=true "Красивый вариант на голове")
 
 ![Крепление](https://github.com/MicroSur/QIDI-Q1-Pro-3d-Touch/blob/main/3dt_mount.jpg?raw=true "Крепление")
 
