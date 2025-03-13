@@ -30,11 +30,22 @@
 
 Пример изменений в printer.cfg
 
-    #Секцию пробы закомментировать всю.
+    #Секцию пробы и кулера платы головы закомментировать всю.
+    
     #[qdprobe]
     #pin:!gpio21
     #z_offset:0.000001
-    
+
+    # [heater_fan hotend_fan2]
+    # pin:gpio11
+    # max_power: 1.0
+    # shutdown_speed:1.0
+    # kick_start_time: 0.5
+    # heater: extruder
+    # heater_temp: 50.0
+    # fan_speed: 1.0
+    # off_below: 0
+
     #добавить секцию bltouch
     [bltouch]
     sensor_pin: gpio21 # Probe
